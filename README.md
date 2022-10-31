@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Batuhan
 - 🌱 I’m currently learning Java
+- 📫 How to reach me https://www.linkedin.com/in/batuhanmikaildemir/
+
 
 <!---
 BatuhanMD/BatuhanMD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
