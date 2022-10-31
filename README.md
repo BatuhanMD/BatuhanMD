@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Batuhan
-- 🌱 I’m currently learning Java
-- 📫 How to reach me https://www.linkedin.com/in/batuhanmikaildemir/
+- 🌱 I’m currently learning Java 
 
 
 <!---
